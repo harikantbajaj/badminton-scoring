@@ -1,0 +1,20 @@
+# Badminton Court Keypoint Dataset (Pose)
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+# Number of keypoints and labels
+kpt_shape: [30, 3]
+flip_idx: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]
+
+# Number of classes and class names
+nc: 1
+names: ['courtline']
+
+# Roboflow Metadata
+roboflow:
+  workspace: learning-9i34b
+  project: badminton-court-keypoint-dataset
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/learning-9i34b/badminton-court-keypoint-dataset/dataset/5
