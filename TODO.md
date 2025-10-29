@@ -1,10 +1,5 @@
-# TODO: Upload Badminton Scoring Project to GitHub
+# TODO: Run Badminton Scoring Project
 
-- [x] Check if Git is installed on the system
-- [x] Check if GitHub CLI (gh) is installed; install if needed
-- [ ] Navigate to badminton-scoring directory
-- [ ] Initialize Git repository
-- [ ] Add all files to Git (respecting .gitignore)
-- [ ] Commit changes with message 'Initial commit'
-- [ ] Create private GitHub repository named 'badminton-scoring'
-- [ ] Push code to GitHub repository
+- [x] Update video path in main.py to use an existing video (videos/00001.mp4)
+- [x] Install dependencies from requirements.txt
+- [x] Execute the main.py script to run the project
