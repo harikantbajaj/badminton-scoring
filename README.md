@@ -78,6 +78,17 @@ python detect_objects.py
 ```
 
 Processes `videos/00777.mp4` with advanced shuttle tracking and trajectory visualization.
+###OUTPUT
+
+
+https://github.com/user-attachments/assets/1f9467e8-c211-4e96-824a-bc3f093ab74a
+
+
+
+
+
+https://github.com/user-attachments/assets/d1686e7d-c836-4d0c-8869-a4269c2c9516
+
 
 ### Full Scoring System
 
